@@ -890,6 +890,7 @@ header nav .name {
     padding: 20px 20px 20px 60px;
     border: 1px solid white;
     background: none;
+    color: #fff;
     caret-color: var(--main-color);
     width: calc(100% - 130px);
     border-right: none;
